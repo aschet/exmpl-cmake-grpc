@@ -1,3 +1,5 @@
+project(client)
+
 #
 # Dependencies
 #
